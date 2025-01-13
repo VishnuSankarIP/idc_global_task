@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+.user-text{
+ 
+    margin-block-start: 30px;
+}
+.table-container{
+margin-top: 10px;
+}
