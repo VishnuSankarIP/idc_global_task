@@ -73,7 +73,7 @@ function Register() {
         <>
             <main>
                 <Helmet>
-                    <title>Register User - User Management System</title>
+                    <title>Register - User Management System</title>
                     <meta
                         name="description"
                         content="Register a new user to the database with secure credentials."

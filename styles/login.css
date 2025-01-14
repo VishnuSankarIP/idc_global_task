@@ -1,9 +1,6 @@
 *{
-  
     padding: 0;
-  
     box-sizing: border-box;
-    
 }
 .banner-div {
     background-image: url('/images/banner.png'); 
@@ -45,12 +42,15 @@
 
 @media screen and (max-width: 768px) {
     .banner-div {
-        display: none;
+        height: 60vh; 
+        border-radius: 20px; 
     }
 }
 
 @media screen and (max-width: 480px) {
+   
     .banner-div {
-        display: none;
+        height: 50vh; 
+        border-radius: 15px; 
     }
 }
